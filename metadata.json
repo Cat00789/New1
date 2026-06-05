@@ -1,0 +1,6 @@
+{
+  "name": "HealthSync",
+  "description": "A comprehensive Android health tracking app to monitor fitness, hydration, sleep, medical reports, and medications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
